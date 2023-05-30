@@ -1,7 +1,7 @@
 import java.time.Duration;
 import java.time.LocalTime;
 
-public class GiantMosquito extends Mosquito implements Annoyance {
+public class GiantMosquito extends Mosquito {
     public GiantMosquito() {
         System.out.println("Be careful! It's a giant one!\n");
     }
