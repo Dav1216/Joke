@@ -1,5 +1,5 @@
 # Mosquito
-This is a joke. Regardless I still suggest trying it.
+This is a JOKE. Regardless I still suggest looking at the code and trying it :).
 
 # Requirements
 Have Java installed.
