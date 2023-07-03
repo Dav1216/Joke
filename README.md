@@ -17,7 +17,8 @@ Have Java installed.
 10. Get the stats! (mosquito's lifespan)
 
 ## The inspiration:
-![Real Big Mosquito](mosquito.gif)
+<img src="mosquito.gif" width="30%" alt="Real Big Mosquito">
+
 
 
 ## Future plans
