@@ -2,6 +2,7 @@ public class Mosquito implements Annoyance {
     public Mosquito() {
         System.out.println("\nIt's a mosquito!");
     }
+    
     protected void fly(Direction direction) throws InterruptedException {
         while(true) {
             boolean clear = checkIfClear(direction);
@@ -16,10 +17,12 @@ public class Mosquito implements Annoyance {
             Thread.sleep(1000);
         }
     }
+    
     private boolean checkIfClear(Direction direction) {
         // most probably not clear in that direction
         return false;
     }
+    
     @Override
     public void beAnnoying() {
         // it is being annoying
