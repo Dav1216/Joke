@@ -2,7 +2,7 @@
 This is a **JOKE**. Regardless I still suggest looking at the code and trying it :).
 
 # Requirements
-Have Java installed.
+Have the JDK installed.
 
 # Usage
 1. Run the program in your IDE or from the command line.
